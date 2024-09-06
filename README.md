@@ -66,4 +66,4 @@ To run the IRCA web application locally, follow these steps:
 
 ## Contributors
 
-This project is maintained by [Aditi Khyadad] and contributions from [Aditi Khyadad, Shreya P M, Sakshi Talur and Girish T]. For any inquiries or support, please contact [aditikhyadad@gmail.com].
+This project is maintained by [Samriddhi Gurunath S] and contributions from [Samriddhi Gurunath S, Saya Govardhan, Vijalakshmi Aralikatti and Siddharth Bidari]. For any inquiries or support, please contact [g3samriddhi@gmail.com].
